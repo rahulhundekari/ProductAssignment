@@ -1,2 +1,10 @@
-# ProductAssignment
-Dummy API Product List and Details
+## ProductAssignment
+
+# Major Highlights
+
+- **Jetpack Compose** for UI
+- **Clean Architecture**
+- **MVI** architecture pattern
+- **Kotlin Coroutines**
+- **Hilt**
+- **Retrofit**
